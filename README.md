@@ -1,2 +1,2 @@
 netlify link
-https://myportfolionew1.netlify.app/
+https://portfolionew1.netlify.app/
