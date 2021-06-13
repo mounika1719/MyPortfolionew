@@ -21,7 +21,7 @@ const MyCarousel = () => {
           <img
             className="d-block w-100 bg-img"
             src={Slide2}
-            alt="Third slide"
+            alt="second slide"
           />
         </Carousel.Item>
         <Carousel.Item>
