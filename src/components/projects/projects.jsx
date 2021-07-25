@@ -3,8 +3,6 @@ import { Timeline, Events, UrlButton, ImageEvent } from "@merc/react-timeline";
 // projects
 import quotes_fetching from "../../images/img/project/project1.png";
 import recipe_list_react from "../../images/img/project/project2.png";
-
-
 import Blog_up from "../../images/img/project/project11.png";
 import zoomin from "../../images/img/project/project12.png";
 import moneymanager from "../../images/img/project/proj3.png";
@@ -20,9 +18,7 @@ import L_Bootstrap from "../../images/img/skills/bootstrap-5.svg";
 import L_Mongodb from "../../images/img/skills/mongodb.svg";
 import L_Nodejs from "../../images/img/skills/nodejs-1.svg";
 import L_express from "../../images/img/skills/express-5.svg";
-
 import Image from "react-bootstrap/Image";
-
 import "./projects.style.css";
 
 const TimeLine = () => {
@@ -51,7 +47,6 @@ const TimeLine = () => {
                     >
                       PROJECT DETAILS
                     </Accordion.Toggle>
-
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
                         <strong>Description:</strong> Blogup is created using full stack mern were we can create our
